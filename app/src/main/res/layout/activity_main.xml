@@ -15,5 +15,5 @@
         android:id="@+id/btn"
         android:textSize="20sp"
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="wrap_content" />
 </RelativeLayout>
